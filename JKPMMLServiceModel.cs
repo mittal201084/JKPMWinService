@@ -25,9 +25,10 @@ namespace JKPMMLService
             timer.Elapsed += new System.Timers.ElapsedEventHandler(OnElapsedTime);
         }
 
+
         protected override void OnStart(string[] args)
         {
-            WriteToFile("Service is started at " + DateTime.Now);
+            WriteToFile("Service is started at  : " + DateTime.Now);
             
             timer.Enabled = true;
             timer.Start();
