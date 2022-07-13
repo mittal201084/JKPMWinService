@@ -10,17 +10,17 @@ spec:
           stages {
             stage('build') {
               steps {
-                echo "Building..."
+                echo "Building Application..."
               }
             }
             stage('test') {
               steps {
-                echo "Testing..."
+                echo "Testing Application..."
               }
             }
             stage('deploy') {
               steps {
-                echo "Deploying..."
+                echo "Deploying Application..."
               }
             }
           }
