@@ -1,0 +1,17 @@
+C:\Users\Mittal Modi\source\repos\JKPMMLService\bin\Debug\JKPMMLService.exe.config
+C:\Users\Mittal Modi\source\repos\JKPMMLService\bin\Debug\JKPMMLService.exe
+C:\Users\Mittal Modi\source\repos\JKPMMLService\bin\Debug\JKPMMLService.pdb
+C:\Users\Mittal Modi\source\repos\JKPMMLService\obj\Debug\JKPMMLService.csproj.AssemblyReference.cache
+C:\Users\Mittal Modi\source\repos\JKPMMLService\obj\Debug\JKPMMLService.ProjectInstaller.resources
+C:\Users\Mittal Modi\source\repos\JKPMMLService\obj\Debug\JKPMMLService.csproj.GenerateResource.cache
+C:\Users\Mittal Modi\source\repos\JKPMMLService\obj\Debug\JKPMMLService.csproj.CoreCompileInputs.cache
+C:\Users\Mittal Modi\source\repos\JKPMMLService\obj\Debug\JKPMMLService.exe
+C:\Users\Mittal Modi\source\repos\JKPMMLService\obj\Debug\JKPMMLService.pdb
+D:\Advanced Analytics\JKPMMLService\bin\Debug\JKPMMLService.exe
+D:\Advanced Analytics\JKPMMLService\bin\Debug\JKPMMLService.exe.config
+D:\Advanced Analytics\JKPMMLService\obj\Debug\JKPMMLService.ProjectInstaller.resources
+D:\Advanced Analytics\JKPMMLService\obj\Debug\JKPMMLService.csproj.GenerateResource.cache
+D:\Advanced Analytics\JKPMMLService\obj\Debug\JKPMMLService.csproj.CoreCompileInputs.cache
+D:\Advanced Analytics\JKPMMLService\obj\Debug\JKPMMLService.exe
+D:\Advanced Analytics\JKPMMLService\obj\Debug\JKPMMLService.pdb
+D:\Advanced Analytics\JKPMMLService\bin\Debug\JKPMMLService.pdb

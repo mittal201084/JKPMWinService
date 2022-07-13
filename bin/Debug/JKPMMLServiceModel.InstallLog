@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Advanced Analytics\JKPMMLServiceModel\bin\Debug\JKPMMLServiceModel.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Advanced Analytics\JKPMMLServiceModel\bin\Debug\JKPMMLServiceModel.InstallLog
+   assemblypath = D:\Advanced Analytics\JKPMMLServiceModel\bin\Debug\JKPMMLServiceModel.exe
+Installing service JKPMMLService-_Model_9_CPM_PM4_IGT_RCA...
+Service JKPMMLService-_Model_9_CPM_PM4_IGT_RCA has been successfully installed.
+Creating EventLog source JKPMMLService-_Model_9_CPM_PM4_IGT_RCA in log Application...
+Committing assembly 'D:\Advanced Analytics\JKPMMLServiceModel\bin\Debug\JKPMMLServiceModel.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Advanced Analytics\JKPMMLServiceModel\bin\Debug\JKPMMLServiceModel.InstallLog
+   assemblypath = D:\Advanced Analytics\JKPMMLServiceModel\bin\Debug\JKPMMLServiceModel.exe

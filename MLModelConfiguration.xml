@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ML>
+	<Model Name="9_CPM_PM4_IGT_RCA" chrStatus="Y" Path="D:\\Advanced Analytics\\9_CPM_PM4_IGT_RCA\\Script\\batch file.cmd"></Model>
+	<Model Name="8_CPM_PM4_Stiffness_RCA" chrStatus="Y" Path="D:\\Advanced Analytics\\8_CPM_PM4_Stiffness_RCA\\Script\\batch file.cmd"></Model>
+	<Model Name="10_CPM_PM4_Paperbreak_RCA" chrStatus="Y" Path="D:\\Advanced Analytics\\10_CPM_PM4_Paperbreak_RCA\\Script\\batch file.cmd"></Model>
+	<Model Name="5_JKPM_PM6_Paperbreak_RCA" chrStatus="Y" Path="D:\\Advanced Analytics\\5_JKPM_PM6_Paperbreak_RCA\\Script\\batch file.cmd"></Model>
+
+</ML>

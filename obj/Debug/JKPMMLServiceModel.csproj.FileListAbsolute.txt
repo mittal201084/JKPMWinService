@@ -1,0 +1,8 @@
+D:\Advanced Analytics\JKPMMLServiceModel\bin\Debug\JKPMMLServiceModel.exe.config
+D:\Advanced Analytics\JKPMMLServiceModel\bin\Debug\JKPMMLServiceModel.exe
+D:\Advanced Analytics\JKPMMLServiceModel\bin\Debug\JKPMMLServiceModel.pdb
+D:\Advanced Analytics\JKPMMLServiceModel\obj\Debug\JKPMMLService.ProjectInstaller.resources
+D:\Advanced Analytics\JKPMMLServiceModel\obj\Debug\JKPMMLServiceModel.csproj.GenerateResource.cache
+D:\Advanced Analytics\JKPMMLServiceModel\obj\Debug\JKPMMLServiceModel.csproj.CoreCompileInputs.cache
+D:\Advanced Analytics\JKPMMLServiceModel\obj\Debug\JKPMMLServiceModel.exe
+D:\Advanced Analytics\JKPMMLServiceModel\obj\Debug\JKPMMLServiceModel.pdb

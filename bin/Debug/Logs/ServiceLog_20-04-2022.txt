@@ -1,0 +1,26 @@
+Service is started at 20-04-2022 17:18:09
+Service is started at 20-04-2022 17:42:43
+Service is started at 20-04-2022 17:47:17
+Service is started at 20-04-2022 18:01:39
+Service is OnElapsedTime at 20-04-2022 18:06:39
+batchfile is started at 9_CPM_PM4_IGT_RCA20-04-2022 18:06:40
+batchfile is started at 8_CPM_PM4_Stiffness_RCA20-04-2022 18:06:40
+batchfile is started at 10_CPM_PM4_Paperbreak_RCA20-04-2022 18:06:40
+batchfile is started at 5_JKPM_PM6_Paperbreak_RCA20-04-2022 18:06:40
+batchfile is End at 5_JKPM_PM6_Paperbreak_RCA20-04-2022 18:06:40
+batchfile is End at 10_CPM_PM4_Paperbreak_RCA20-04-2022 18:06:40
+batchfile is End at 8_CPM_PM4_Stiffness_RCA20-04-2022 18:06:40
+batchfile is End at 9_CPM_PM4_IGT_RCA20-04-2022 18:06:40
+Service is OnElapsedTime at 20-04-2022 18:06:41
+batchfile is started at 9_CPM_PM4_IGT_RCA20-04-2022 18:06:41
+batchfile is started at 8_CPM_PM4_Stiffness_RCA20-04-2022 18:06:41
+batchfile is started at 10_CPM_PM4_Paperbreak_RCA20-04-2022 18:06:41
+The process cannot access the file 'D:\Advanced Analytics\JKPMMLService\bin\Debug\Logs\ServiceLog_20-04-2022.txt' because it is being used by another process.
+batchfile is End at 9_CPM_PM4_IGT_RCA20-04-2022 18:06:41
+batchfile is End at 10_CPM_PM4_Paperbreak_RCA20-04-2022 18:06:41
+batchfile is End at 8_CPM_PM4_Stiffness_RCA20-04-2022 18:06:41
+Service is OnElapsedTime at 20-04-2022 18:11:41
+batchfile is started at 9_CPM_PM4_IGT_RCA20-04-2022 18:11:41
+batchfile is started at 8_CPM_PM4_Stiffness_RCA20-04-2022 18:11:41
+batchfile is End at 9_CPM_PM4_IGT_RCA20-04-2022 18:11:41
+batchfile is End at 8_CPM_PM4_Stiffness_RCA20-04-2022 18:11:41
