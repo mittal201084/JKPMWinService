@@ -1,0 +1,27 @@
+kind: "BuildConfig"
+apiVersion: "v1"
+metadata:
+  name: "demo-pipeline"
+spec:
+  strategy:
+    jenkinsPipelineStrategy:
+      jenkinsfile: |-
+        pipeline {          
+          stages {
+            stage('build') {
+              steps {
+                echo "Building..."
+              }
+            }
+            stage('test') {
+              steps {
+                echo "Testing..."
+              }
+            }
+            stage('deploy') {
+              steps {
+                echo "Deploying..."
+              }
+            }
+          }
+        }
